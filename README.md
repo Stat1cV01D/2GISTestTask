@@ -2,8 +2,6 @@
 Test task in C++17 
 
 ## Description:
-===========
-
 Usage: `2GisTest <options>`  
 Options are:
 
@@ -15,12 +13,10 @@ Option | Description
 `-h` | Displays help
 
 ## Requirements:
-============
 - MSVC 2017 or higher (support for C++17)
 - CMake 3.13 or higher
 
 ## Installation:
-============
 
 1. Clone this repository
 2. Run CMake for the cloned folder  
